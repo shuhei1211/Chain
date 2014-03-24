@@ -1,0 +1,1 @@
+package jp.shuhei.core;/** * ChainWebviewInterface * @author Shuhei.iwamoto * @version 1.0.0 */public interface IFChainWebview<T extends IFChainWebview<T>> {}

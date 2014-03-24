@@ -1,0 +1,1 @@
+package jp.shuhei.model;/** * Chain Constants * @author Shuhei.iwamoto * @version 1.0.0 */public interface ChCon {    public static final String YAHOO = "http://m.yahoo.co.jp";    public static final String GOOGLE = "";}

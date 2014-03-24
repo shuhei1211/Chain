@@ -1,0 +1,1 @@
+package jp.shuhei.chain;import jp.shuhei.core.IFChainBitmap;/** * ChainBitmap * @author Shuhei.iwamoto * @version 1.0.0 */public class ChainBitmap<T extends ChainBitmap<T>> implements IFChainBitmap<ChainBitmap<T>> {    private static final String TAG = "ChainBitmap";    private final ChainBitmap self = this;}

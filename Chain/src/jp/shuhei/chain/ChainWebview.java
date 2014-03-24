@@ -1,0 +1,1 @@
+package jp.shuhei.chain;import jp.shuhei.core.IFChainWebview;/** * ChainWebview * @author Shuhei.iwamoto * @version 1.0.0 */public class ChainWebview<T extends ChainWebview> implements IFChainWebview<ChainWebview<T>> {    private static final String TAG = "ChainWebview";    private final ChainWebview self = this;}

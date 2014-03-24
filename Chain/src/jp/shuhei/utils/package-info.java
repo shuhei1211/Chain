@@ -1,0 +1,1 @@
+/** *  *//** * */package jp.shuhei.utils;

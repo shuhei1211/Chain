@@ -1,0 +1,1 @@
+package jp.shuhei.core;/** * ChainEditTextInterface * @author Shuhei.iwamoto * @version 1.0.0 */public interface IFChainEditText<T extends IFChainEditText<T>> {}

@@ -1,0 +1,1 @@
+package jp.shuhei.chain;import jp.shuhei.core.IFChainFragment;/** * ChainFragment * @author Shuhei.iwamoto * @version 1.0.0 */public class ChainFragment<T extends ChainFragment<T>> implements IFChainFragment<ChainFragment<T>> {    private static final String TAG = "ChainFragment";    private final ChainFragment self = this;}

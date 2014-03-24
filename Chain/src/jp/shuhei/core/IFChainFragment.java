@@ -1,0 +1,1 @@
+package jp.shuhei.core;/** * ChainFragmentInterface * @author Shuhei.iwamoto * @version 1.0.0 */public interface IFChainFragment<T extends IFChainFragment<T>> {}
